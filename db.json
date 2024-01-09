@@ -1,21 +1,22 @@
 {
-"ss":[
-  {
-    "site": "btsow",
-    "url": "https://btsow.motorcycles",
-    "paths": {
-      "preset": "/search/{k}/page/{p}"
-    },
-    "group": "//div[@class='row']",
-    "magnet": "./a/@href",
-    "name": "./a/div[1]",
-    "size": "./div[1]",
-    "date": "./div[2]",
-    "detail": {
-      "files": "//div[@class=\"detail data-list\"]/div/text()"
-    },
-    "type": 1,
-    "imageUrl": "https://btsow.motorcycles/app/bts/View/img/apple-touch-icon.png"
-  }
-]
+  "ss": [
+    {
+      "site": "btsow",
+      "url": "https://btsow.motorcycles",
+      "paths": {
+        "preset": "/search/{k}/page/{p}"
+      },
+      "group": "//div[@class='row']",
+      "magnet": "./a/@href",
+      "name": "./a/div[1]",
+      "size": "./div[1]",
+      "date": "./div[2]",
+      "detail": {
+        "files": "//div[@class=\"detail data-list\"]/div/text()"
+      },
+      "type": 1,
+      "imageUrl": "https://btsow.motorcycles/app/bts/View/img/apple-touch-icon.png"
+    }
+  ],
+  "version": 100
 }
