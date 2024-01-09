@@ -1,7 +1,7 @@
 {
   "ss": [
     {
-      "site": "btsow",
+      "site": "btsowsas",
       "url": "https://btsow.motorcycles",
       "paths": {
         "preset": "/search/{k}/page/{p}"
