@@ -18,5 +18,7 @@
       "imageUrl": "https://btsow.motorcycles/app/bts/View/img/apple-touch-icon.png"
     }
   ],
-  "version": 100
+  "version": {
+    "version": "1000"
+  }
 }
