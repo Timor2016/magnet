@@ -82,7 +82,8 @@
     ],
      "version": {
       "versionCode": 122,
-      "isMustUpdate": false
+      "isMustUpdate": false,
+       "updateInfo":"1. Add search sources \n2. Application optimization to improve search success rate"
     }
   }
 }
