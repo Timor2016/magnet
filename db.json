@@ -79,6 +79,10 @@
         "type": 2,
         "pageSize": 10
       }
-    ]
+    ],
+     "version": {
+      "versionCode": 122,
+      "isMustUpdate": false
+    }
   }
 }
