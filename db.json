@@ -64,7 +64,7 @@
       },
       {
         "site": "btmovi",
-        "url": "http://www.btmovi.click/",
+        "url": "http://www.btmovi.click",
         "paths": {
           "preset": "/so/{k}_rel_{p}.html",
           "time": "/so/{k}_time_{p}.html",
